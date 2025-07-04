@@ -32,8 +32,8 @@ A Python-based SSH brute-force tool designed to simulate password-guessing attac
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/BlackVault-SSHForce.git
-cd BlackVault-SSHForce
+git clone https://github.com/Cybernuel/ssh_bruteforce.py.git
+cd ssh_bruteforce.py
 ````
 
 ### 2. Install dependencies
